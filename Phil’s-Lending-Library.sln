@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Phil’s-Lending-Library", "Phil’s-Lending-Library\Phil’s-Lending-Library.csproj", "{76FD02F7-1689-47C1-92AF-00FC982C2931}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestLendingLibrary", "TestLendingLibrary\TestLendingLibrary.csproj", "{F56A4A38-F55C-4176-9927-14F63C129AA2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76FD02F7-1689-47C1-92AF-00FC982C2931}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76FD02F7-1689-47C1-92AF-00FC982C2931}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76FD02F7-1689-47C1-92AF-00FC982C2931}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76FD02F7-1689-47C1-92AF-00FC982C2931}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F56A4A38-F55C-4176-9927-14F63C129AA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F56A4A38-F55C-4176-9927-14F63C129AA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F56A4A38-F55C-4176-9927-14F63C129AA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F56A4A38-F55C-4176-9927-14F63C129AA2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8921BD4C-D814-4F48-B959-AAC4E9F458FF}
+	EndGlobalSection
+EndGlobal
