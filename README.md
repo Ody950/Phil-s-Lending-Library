@@ -10,5 +10,5 @@ In this application, all the books that will be displayed to users are provided 
 
 ## Visual
 
-<img src="./1.jpg" style="width: 1000px;">
-<img src="./2.jpg" style="width: 1000px;">
+<img src="./Phil’s-Lending-Library/1.jpg" style="width: 1000px;">
+<img src="./Phil’s-Lending-Library/2.jpg" style="width: 1000px;">
