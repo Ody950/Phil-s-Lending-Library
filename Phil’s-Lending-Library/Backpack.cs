@@ -40,7 +40,6 @@ namespace Phil_s_Lending_Library
             return GetEnumerator();
         }
 
-
     }
 
 }
